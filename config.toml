@@ -1,9 +1,0 @@
-# 라이트/다크를 각각 지정해야 시스템 설정에 따라 자동 전환된다 (Streamlit >= 1.46)
-[theme.light]
-primaryColor = "#E8590C"
-
-[theme.dark]
-primaryColor = "#FF8A4C"
-
-[client]
-toolbarMode = "minimal"
